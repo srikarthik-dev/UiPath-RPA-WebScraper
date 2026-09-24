@@ -1,0 +1,7 @@
+# UiPath execution and temporary files
+.local/
+.screenshots/
+.entities/
+.tmh/
+*.log
+.DS_Store
