@@ -1,3 +1,4 @@
+<img width="525" height="793" alt="image" src="https://github.com/user-attachments/assets/0fac7581-e063-4f6f-91ae-8a630394fcbf" />
 # UiPath RPA Web Scraper - W3Schools Customers Table to CSV
 
 An automated Robotic Process Automation (RPA) workflow developed with **UiPath Studio Web** on macOS. The bot automates Google Chrome, extracts tabular customer records directly from the DOM using custom JavaScript injection, and saves an RFC 4180 compliant CSV file formatted for Apple Numbers and Microsoft Excel.
